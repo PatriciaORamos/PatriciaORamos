@@ -1,6 +1,6 @@
 ### Hi, I am Patricia Ogura Ramos 👋
 
-- 🔭 I’m currently working on fullstack developer
+- 🏛 I’m currently studying IT Web Programming at Nova Scotia Community College
 - 🌱 I’m currently learning React
 
  <div>
