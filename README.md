@@ -1,7 +1,7 @@
 ### Hi, I am Patricia Ogura Ramos 👋
 
 - 🏛 I’m currently studying IT Web Programming at Nova Scotia Community College
-- 🌱 I’m able to developer codification in Java, PHP, React languages.
+- 🌱 I’m able to developer codification in Java, PHP, React, Python languages.
 
  <div>
   <a href="https://github.com/PatriciaORamos">
