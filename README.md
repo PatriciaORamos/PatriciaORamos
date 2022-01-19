@@ -1,6 +1,6 @@
 ### Hi, I am Patricia Ogura Ramos 👋
 
-- 🏛 I’m currently studying IT Web Programming at Nova Scotia Community College
+- 🏛 I’m student at Nova Scotia Community College. My program is IT Web Programming.
 - 🌱 I’m able to developer codification in Java, PHP, React, Python, Objective-C languages.
 
  <div>
