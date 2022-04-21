@@ -2,7 +2,7 @@
 
 - ☕ I’m a software developer.
 - 💻 I’m able to developer codification in Java, PHP, React, Python, Objective-C languages.
-- 📚 I hold bacharel degree in computer science, postgraduation degree with specialization in software engineer, and diploma degree in IT web programming.
+- 🎮 I play Minecraft, Mario, Rayman Origins.
 
  <div>
   <a href="https://github.com/PatriciaORamos">
