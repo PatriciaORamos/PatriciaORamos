@@ -1,7 +1,8 @@
 ### Hi, I am Patricia Ogura Ramos 👋
 
-- 🏛 I’m student at Nova Scotia Community College. My program is IT Web Programming.
-- 🌱 I’m able to developer codification in Java, PHP, React, Python, Objective-C languages.
+- ☕ I’m a software developer.
+- 💻 I’m able to developer codification in Java, PHP, React, Python, Objective-C languages.
+- 📚 I hold bacharel degree in computer science, postgraduation degree with specialization in software engineer, and diploma degree in IT web programming.
 
  <div>
   <a href="https://github.com/PatriciaORamos">
