@@ -17,7 +17,7 @@
 </div>
  <div>
   <br />
-  <a href="https://www.linkedin.com/in/patricia-ogura-ramos-284b381a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/patricia-ramos-284b381a3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 ![Snake animation](https://github.com/PatriciaORamos/PatriciaORamos/blob/output/github-contribution-grid-snake.svg)
   
