@@ -1,6 +1,5 @@
 ### Hi, I am Patricia Ogura Ramos 👋
 
-- ☕ I’m a software developer.
 - 💻 I’m able to developer codification in Java, Python, Angular.
 
  <div>
